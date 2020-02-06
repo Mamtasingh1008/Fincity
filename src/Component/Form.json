@@ -1,0 +1,10 @@
+
+    { "items":
+        [
+            {"id":"0","value": "list1", "label": "Name", "Inputtype": "text", "ref": "NameRef"},
+            {"id":"1","value": "list2", "label": "Phone", "Inputtype": "number", "ref": "PhoneRef" },
+            {"id":"2","value": "list3", "label": "Address", "Inputtype": "text", "ref": "AddressRef"}
+            
+       ]
+    }
+        
